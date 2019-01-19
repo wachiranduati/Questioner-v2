@@ -3,6 +3,10 @@
 
 Questioner is a web app that enables users to create meetups and post questions and comments on the meetups and do basic log monitoring via the user's profile. Users can monitor upcoming meetups and even go further to have a curated list of top questions on upcoming meetups accessible right in their profile.
 
+[![Build Status](https://travis-ci.org/wachiranduati/Questioner-v2.svg?branch=develop)](https://travis-ci.org/wachiranduati/Questioner-v2)
+[![Maintainability](https://api.codeclimate.com/v1/badges/af4c9b63c8f787513d02/maintainability)](https://codeclimate.com/github/wachiranduati/Questioner-v2/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/af4c9b63c8f787513d02/test_coverage)](https://codeclimate.com/github/wachiranduati/Questioner-v2/test_coverage)
+
 ## Features Currenctly supported by the api
  1. create a meetup record.
  2. Create a question record.
