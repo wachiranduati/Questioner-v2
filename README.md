@@ -18,7 +18,7 @@ Method        | EndPoint      | Functionality |
 POST  | /api/v1/meetups  | Create a meetup record   |
 GET  | /api/v1/meetups/<meetup-id>  | Fetch a specific meetup record.   |
 GET  | /api/v1/meetups/upcoming   | Fetch all upcoming meetup records.   |
-GET  | /api/v1/questions/<questionId> | Fetch a specific question   
+GET  | /api/v1/questions/<questionId> | Fetch a specific question.   
 POST  | /api/v1/questions | Create a question for a specific meetup.   |
 PUT  | /api/v1/questions/<question-id>/upvote | Upvote (increase votes by 1) a specific question.   |
 PUT | /api/v1/questions/<question-id>/downvote | Downvote (decrease votes by 1) a specific question.   |
