@@ -38,7 +38,7 @@ POST | /api/v1/meetups/<meetup-id>/rsvps| Respond to meetup RSVP.
 
 ### Installing
 
-First install python3 into your machine.
+Make sure your have python3 installed into your machine.
 Clone this repository and cd into it.
 > $ git clone https://github.com/wachiranduati/Questioner.git 
 > $ cd Questioner
